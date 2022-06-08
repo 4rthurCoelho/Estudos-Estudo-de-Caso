@@ -1,5 +1,7 @@
+//setup
 size (285, 330);
 background(255);
+//Piet
 strokeWeight(8);
 rect (20,20,60,60);
 rect (20,85,60,140);
