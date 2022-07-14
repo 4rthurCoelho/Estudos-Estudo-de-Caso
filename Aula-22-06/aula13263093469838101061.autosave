@@ -1,0 +1,13 @@
+void setup
+{
+  s
+}
+  
+
+
+void draw
+
+    background(0);
+    line(2, , 2, );
+    line(0, 2, , 2);
+}
